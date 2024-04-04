@@ -1,0 +1,1 @@
+->UPDATE user SET name=:name, email=:email, password=:password, recibir_push=1 ,foto=:fotoName  WHERE id=1

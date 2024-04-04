@@ -1,0 +1,50 @@
+[09-Dec-2020 22:02:57 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[09-Dec-2020 22:02:57 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[09-Dec-2020 22:03:48 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[09-Dec-2020 22:03:48 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[09-Dec-2020 22:04:29 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND oneSignalId IS NOT NULL AND oneSignalId <> '' AND recibir_push=1' at line 1 in /home/fabrlwnf/public_html/ZENT_API/utils.php:317
+Stack trace:
+#0 /home/fabrlwnf/public_html/ZENT_API/utils.php(317): PDOStatement->execute()
+#1 /home/fabrlwnf/public_html/ZENT_API/push.php(136): obtenerOneSignaId(Array, Object(PDO), 'telefono_usuari...', '679015532')
+#2 {main}
+  thrown in /home/fabrlwnf/public_html/ZENT_API/utils.php on line 317
+[09-Dec-2020 22:05:10 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND oneSignalId IS NOT NULL AND oneSignalId <> '' AND recibir_push=1' at line 1 in /home/fabrlwnf/public_html/ZENT_API/utils.php:317
+Stack trace:
+#0 /home/fabrlwnf/public_html/ZENT_API/utils.php(317): PDOStatement->execute()
+#1 /home/fabrlwnf/public_html/ZENT_API/push.php(136): obtenerOneSignaId(Array, Object(PDO), 'telefono_usuari...', '679015532')
+#2 {main}
+  thrown in /home/fabrlwnf/public_html/ZENT_API/utils.php on line 317
+[09-Dec-2020 22:10:29 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND oneSignalId IS NOT NULL AND oneSignalId <> '' AND recibir_push=1' at line 1 in /home/fabrlwnf/public_html/ZENT_API/utils.php:317
+Stack trace:
+#0 /home/fabrlwnf/public_html/ZENT_API/utils.php(317): PDOStatement->execute()
+#1 /home/fabrlwnf/public_html/ZENT_API/push.php(136): obtenerOneSignaId(Array, Object(PDO), 'telefono_usuari...', '679015532')
+#2 {main}
+  thrown in /home/fabrlwnf/public_html/ZENT_API/utils.php on line 317
+[09-Dec-2020 22:25:47 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[09-Dec-2020 22:25:47 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[10-Dec-2020 07:21:19 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[10-Dec-2020 07:21:19 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[10-Dec-2020 07:27:01 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[10-Dec-2020 07:27:01 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[10-Dec-2020 17:48:30 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[10-Dec-2020 17:48:30 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[11-Dec-2020 19:57:46 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[11-Dec-2020 19:57:46 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[11-Dec-2020 20:29:49 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[11-Dec-2020 20:29:49 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[12-Dec-2020 13:21:54 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[12-Dec-2020 13:21:54 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[12-Dec-2020 16:20:49 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[12-Dec-2020 16:20:49 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[12-Dec-2020 16:59:18 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[12-Dec-2020 16:59:18 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[12-Dec-2020 16:59:21 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[12-Dec-2020 16:59:21 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[13-Dec-2020 08:35:08 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[13-Dec-2020 08:35:08 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[13-Dec-2020 08:35:34 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[13-Dec-2020 08:35:34 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[13-Dec-2020 08:36:53 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[13-Dec-2020 08:36:53 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
+[13-Dec-2020 08:37:16 Europe/Madrid] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 205
+[13-Dec-2020 08:37:16 Europe/Madrid] PHP Warning:  Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) in /home/fabrlwnf/public_html/ZENT_API/push.php on line 206
